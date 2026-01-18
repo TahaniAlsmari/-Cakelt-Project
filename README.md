@@ -1,5 +1,4 @@
-# Cakelt - Software Engineering Project
-**Prince Sattam bin Abdulaziz University | SE-2111**
+# Cakelt - system design project
 
 This repository contains the complete software engineering documentation for **Cakelt**, a specialized mobile application that enables users to custom-design cakes with real-time visual feedback and seamless ordering.
 
@@ -18,7 +17,7 @@ Architectural representations of the system structure and behavior.
 * [Structural Modeling](./design/class_diagram.md) - System classes and logical relationships.
 
 ### 3. User Interface (UI)
-* [Interactive Prototype](./prototype/README.md) - Full gallery of the 11 application screens and user flow.
+* [Interactive Prototype](./prototype/README.md) - Full gallery .
 
 ---
 
@@ -38,6 +37,6 @@ The project followed structured software engineering principles:
 * Haneen Al saeed
 * Aljwharah Alhuqbane
 * Shahad Matrad
-* Tahani Alsamari
+
 
 ---
